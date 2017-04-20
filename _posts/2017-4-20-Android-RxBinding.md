@@ -2,7 +2,7 @@
 layout: post
 title: RxBinding
 categories: [Android]
-tags: [进阶][RxJava]
+tags: [RxJava]
 fullview: true
 ---
 
