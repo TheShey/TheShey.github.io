@@ -14,8 +14,3 @@ fullview: true
 
 # 正文
 ```
-
-## 反馈
-
-1. 有问题联系maisui99@gmail.com
-2. 内部专用
