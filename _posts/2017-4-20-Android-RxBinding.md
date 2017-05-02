@@ -3,7 +3,7 @@ layout: post
 title: RxBinding
 categories: [Android]
 tags: [RxJava]
-fullview: true
+fullview: false
 ---
 
 RxBinding是Jake Wharton的一个开源库,它提供了一套在Android 平台上的基于 RxJava的Binding API,所谓Binding,就是类似设置OnClickListener、设置TextWatcher 这样的注册绑定对象的API.
